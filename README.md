@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @syahrina
-- 👀 I’m interested in 
+- 👀 I’m interested in HCI, UX, Innovation and Entrepreneurship
 - 🌱 I’m currently learning Big Data
 - 💞️ I’m looking to collaborate on Big Data for HCI, HCI for Innovation and Social Development
 - 📫 How to reach me : ping me in Twitter [at] syahrina
